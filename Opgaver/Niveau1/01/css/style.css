@@ -48,11 +48,12 @@ label {
 	border-radius: 5px;
 }
 
-#my-button__green{
+#my-button.my-button__green{
 	padding: 8px;
 	background-color: #7f7;
 	border: 1px solid #1f1;
 	border-radius: 5px;
+	display: block;
 }
 
 #my-button:focus {

@@ -5,4 +5,4 @@ function beregnForhold (a, b){
 
 let forhold = beregnForhold (4, 3);
 
-console.log(forhold);
+console.info(forhold);
